@@ -4,7 +4,12 @@ Hello visitors. We're a Developer.
 Now I'm finally to create a Pologue of Sphere of Diary #1:Viotopia
 
 # game-update-log
-**
-Sphere Of Diary Chapter-1 *Planed*
-Sphere Of Diary Launcher_CMD *Created*
-Sphere Of Diary Project *Created*
+Pologue of Sphere of Diary #1:Viotopia *Created*
+
+Sphere of Diary #1 *named as 'Viotopia'*
+
+Sphere of Diary #1 *Planed*
+
+Sphere of Diary Launcher_CMD *Created*
+
+Sphere of Diary Project *Created*
