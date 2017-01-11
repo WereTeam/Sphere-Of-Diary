@@ -1,4 +1,4 @@
-# Sphere Of Diary
+# Sphere Of Diary on Github
 ## Talk with Developer
 Hello visitors. We're a Developer.
 
