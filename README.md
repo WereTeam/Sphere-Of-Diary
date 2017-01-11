@@ -4,11 +4,11 @@ Hello visitors. We're a Developer.
 
 Now I'm finally to create a Pologue of Sphere of Diary #1:Viotopia
 
-# Download
+## Download
 
-You can download the game on *http://sphereofdiary.rf.gd/download*
+You can download the game on ***[Sphere Of Diary - Download](http://sphereofdiary.rf.gd/download/)***
 
-# game update log
+## game update log
 Pologue of Sphere of Diary #1:Viotopia (*Created*)
 
 Sphere of Diary #1 (*named as 'Viotopia'*)
