@@ -1,4 +1,5 @@
 # Sphere Of Diary
+## Talk with Developer
 Hello visitors. We're a Developer.
 
 Now I'm finally to create a Pologue of Sphere of Diary #1:Viotopia
